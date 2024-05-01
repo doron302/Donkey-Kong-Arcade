@@ -23,3 +23,7 @@ This Unity project is a recreation of the first level of the iconic 1981 arcade 
 
 ## Additional Features 🙊
 - **Hammer Throw Mechanic:** Active defense strategy by throwing hammers to destroy incoming barrels.
+
+
+https://github.com/doron302/Donkey-Kong-Arcade/assets/119405233/798f04b2-67e2-47cb-aed8-9198ce4f9815
+
